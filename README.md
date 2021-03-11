@@ -1,4 +1,4 @@
-# Week-4
+# Week-4 Introduction to Javascript
 Introduction to JavaScript
 
 ## Installation
